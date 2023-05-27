@@ -12,5 +12,6 @@ public class HelloWorld {
         System.out.println("Hello Git");
         System.out.println("Hello Git");
         System.out.println("Hello Git hot");
+        System.out.println("Hello hot test");
     }
 }
